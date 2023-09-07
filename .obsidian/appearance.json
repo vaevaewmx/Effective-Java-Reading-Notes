@@ -1,0 +1,16 @@
+{
+  "cssTheme": "Mado Miniflow",
+  "theme": "moonstone",
+  "accentColor": "",
+  "interfaceFontFamily": "Microsoft YaHei",
+  "textFontFamily": "Microsoft YaHei",
+  "monospaceFontFamily": "Consolas",
+  "nativeMenus": true,
+  "enabledCssSnippets": [
+    "changecolumn",
+    "h2Style"
+  ],
+  "translucency": false,
+  "showViewHeader": true,
+  "baseFontSize": 19
+}

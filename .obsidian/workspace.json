@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "5b2f361c9d98b697",
+    "type": "split",
+    "children": [
+      {
+        "id": "264951f59b2a7743",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0bdd214b3df4441c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 Creating and Destroying Objects.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b5f3dd9372d79715",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d77b3f57447f93e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "088ac8eb7703c3b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58bcaf25db340de2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#衬衫",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1c8a7c7f79b66ace",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ea50b0e6369b2669",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "0b866c2a23ea3a8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8110a43e1965532",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ca60382def6ee9b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2 Creating and Destroying Objects.md"
+              }
+            }
+          },
+          {
+            "id": "0970d765ccc796a0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "d9a7e2c0e6c9c267",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2 Creating and Destroying Objects.md"
+              }
+            }
+          },
+          {
+            "id": "48d6261e94a7361d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2 Creating and Destroying Objects.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3d88fd9c1158834d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2 Creating and Destroying Objects.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cf58337c5427b36b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5fab758c6bad4e46",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 240,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
+    }
+  },
+  "active": "0bdd214b3df4441c",
+  "lastOpenFiles": [
+    "java/功能分析/circutBreaker.md",
+    "java/基础知识点/Collection.md",
+    "java/基础知识点/零零碎碎.md",
+    "Excalidraw/egimg/ref2example.excalidraw.md",
+    "java/功能分析/Feign，retrofit2，RestTemplate.md",
+    "java/功能分析/参数解析器+AOP+Interceptor.md",
+    "DesignPattern/单例模式.md",
+    "书籍分享/effective Java.md",
+    "书籍分享",
+    "DesignPattern/img/singleton.jpg",
+    "DesignPattern/解释器模式.md",
+    "DesignPattern/原型模式.md",
+    "DesignPattern/职责链模式.md",
+    "DesignPattern/中介者模式.md",
+    "DesignPattern/装饰模式.md",
+    "DesignPattern/状态模式.md",
+    "DesignPattern/迭代器模式.md",
+    "未完待填坑.md",
+    "Excalidraw/collection.excalidraw.md",
+    "Excalidraw/2018091621203411.jpg",
+    "DesignPattern/img/iterator.jpg",
+    "DesignPattern/组合模式.md",
+    "DesignPattern/img/composite.jpg",
+    "DesignPattern/备忘录模式.md",
+    "DesignPattern/img/memento.jpg",
+    "DesignPattern/代理模式.md",
+    "DesignPattern/策略模式.md",
+    "Excalidraw/egimg/retrofit.excalidraw.md",
+    "Excalidraw/egimg/getVehicleFlow.excalidraw.md",
+    "Docker/2. 存储数据.md",
+    "DesignPattern/建造者模式.md",
+    "Excalidraw/handler.excalidraw.md",
+    "DesignPattern/img/adapter.jpg",
+    "DesignPattern/适配器模式",
+    "DesignPattern/img/strategy.jpg",
+    "DesignPattern/img/factory.jpg",
+    "DesignPattern/img/operator.jpg",
+    "DesignPattern/img",
+    "Excalidraw/egimg",
+    "Excalidraw/DPimg",
+    "DesignPattern",
+    "Excalidraw/img/Pasted Image 20230706102609_000.png",
+    "Excalidraw/beauty/web-kit.excalidrawlib",
+    "Excalidraw/beauty/emojis.excalidrawlib",
+    "Excalidraw/beauty/data-flow.excalidrawlib",
+    "Excalidraw/beauty/event-storming.excalidrawlib",
+    "未命名.canvas"
+  ]
+}
