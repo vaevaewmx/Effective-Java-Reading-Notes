@@ -47,12 +47,11 @@ Builder的setter方法返回Builder本身, 可以链式操作.
 Builder模式很适合在继承中使用. 子类`build()`方法返回自己的类型(covariant return typing).
 
 
-
 Builder模式的优势: 可读性增强; 可以有多个可变参数; 易于做参数检查和构造约束检查; 比JavaBeans更加安全; 灵活性: 可以利用单个builder构建多个对象, 可以自动填充某些域, 比如自增序列号.
 
-Builder模式的不足: 为了创建对象必须先创建Builder, 在某些十分注重性能的情况下, 可能就成了问题; Builder模式较冗长, 因此只有参数很多时才使用.
+Builder模式的不足: 为了创建对象必须先创建Builder, 在某些十分注重性能的情况下, 可能就成了问题; Builder模式较冗长, 因此只有*参数很多*时才使用.
 
-
+Builder模式也适用于类层次结构
 
 ## 第3条 用私有构造器或者枚举类型强化Singleton属性
 Singleton(单例)指仅仅被实例化一次的类. 通常用来代表那些本质上唯一的系统组件. 
