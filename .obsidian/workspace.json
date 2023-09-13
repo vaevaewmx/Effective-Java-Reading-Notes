@@ -21,6 +21,16 @@
             }
           },
           {
+            "id": "57d7189465636057",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.11"
+              }
+            }
+          },
+          {
             "id": "b5f3dd9372d79715",
             "type": "leaf",
             "state": {
@@ -28,7 +38,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,6 +175,16 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "d0801f737a297319",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ]
       }
@@ -183,7 +204,7 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "0bdd214b3df4441c",
+  "active": "57d7189465636057",
   "lastOpenFiles": [
     "java/功能分析/circutBreaker.md",
     "java/基础知识点/Collection.md",
