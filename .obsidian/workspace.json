@@ -41,6 +41,16 @@
             }
           },
           {
+            "id": "d4971ce2c5062a23",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
+          },
+          {
             "id": "b5f3dd9372d79715",
             "type": "leaf",
             "state": {
@@ -49,7 +59,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -214,7 +224,7 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "d79c2543aaa7815d",
+  "active": "d4971ce2c5062a23",
   "lastOpenFiles": [
     "java/功能分析/circutBreaker.md",
     "java/基础知识点/Collection.md",
